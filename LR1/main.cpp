@@ -901,6 +901,5 @@ int main(int argc, char* argv[]) {
         }
     }
 
-    cout << "Программа завершена" << endl;
     return 0;
 }
